@@ -14,7 +14,7 @@ Este projeto foi criado para colocar em prática o que foi aprendido em aula, ul
 O primeiro exercicio foi pedido para ser feito apenas com lógica de programação e estrutura de controle ultilizando a linguagem Java,construindo toda a lógica dentro do método main, permitindo controle do código, adicionando
 funcionalidades, menus interativos, confimação de operações, verificaão de saldo, e regras de segurança. simulando um caixa eltrônico real de forma bem simples e estruturada.
 
-**Funcionalidades e Implementos:**
+## ⚙**Funcionalidades e Implementos:**
 
 * **Menu do Principal Caixa**: Usando comando do-while e switch para criar um menu que fica rodando até que o usuário escolha sair (opção 0).
 
