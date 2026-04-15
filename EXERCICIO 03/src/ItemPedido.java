@@ -9,7 +9,7 @@ public class ItemPedido {
     public ItemPedido(Produto produto, Integer quantidade) {
         this.produto = produto;
         this.quantidade = quantidade;
-        this.subtotal = produto.getValor()*quantidade;
+        this.subtotal = produto.getValor() * quantidade;
     }
 
     public Integer getQuantidade() {
@@ -42,13 +42,6 @@ public class ItemPedido {
 
     public void setProduto(Produto produto) {
         this.produto = produto;
-    }
-
-
-    @Override
-    public String toString() {
-
-        return super.toString();
     }
 }
 

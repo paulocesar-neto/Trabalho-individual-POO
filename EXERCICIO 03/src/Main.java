@@ -33,13 +33,5 @@ public class Main {
        pedido2.adicionarItens(produto3,1);
        pedido2.adicionarItens(produto,1);
        pedido2.fecharPedido();
-
-
-
-
-
-
-
-
     }
 }
